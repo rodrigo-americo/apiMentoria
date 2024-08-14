@@ -10,7 +10,7 @@ Esta API foi desenvolvida para gerenciar o estoque de computadores em um ambient
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/rodrigo-americo/apiMentoria.git
-   cd nome-do-repositorio
+   cd apiMentoria
    ```
 
 2. **Crie e ative um ambiente virtual:**
