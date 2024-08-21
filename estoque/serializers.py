@@ -6,7 +6,6 @@ class PcSerializer(serializers.ModelSerializer):
     class Meta:
         model = Pc
         fields = "__all__"
-
     def validate_id(self, value):
         # Define o padrão que o ID deve seguir
         pattern = r'^PC[1-5][0][1-9]$|^PC[1-5][1][0]$'
